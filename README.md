@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhay03" alt="abhay03" /></a> </p>
 
-- 🔭 I’m currently working on [CarNext.Autos](https://carnext.autos/)
+- 🔭 I’m currently working on an e-commerce website
 
 - 🌱 I’m currently learning **Automation Testing Using Selenium and Java**
 
