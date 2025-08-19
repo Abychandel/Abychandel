@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **aby.chndl@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13_cq5Mam4OLNKz4BGCt5NdSkEPRd1OxF/view?usp=drive_link](https://drive.google.com/file/d/13_cq5Mam4OLNKz4BGCt5NdSkEPRd1OxF/view?usp=drive_link)
+- 📄 Know about my experiences (https://drive.google.com/drive/u/0/home)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
