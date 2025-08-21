@@ -5,8 +5,8 @@
   <img src="https://komarev.com/ghpvc/?username=Abychandel&label=Profile%20views&color=0e75b6&style=flat" alt="Abychandel" /> 
 </p>
 
-<p align="left"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=Abychandel" alt="Abychandel" />
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=Abychandel" alt="GitHub Trophies" />
 </p>
 
 
