@@ -1,14 +1,12 @@
 <h1 align="center">Hi 👋, I'm Abhaysingh Chandel</h1>
 <h3 align="center">QA Engineer</h3>
 
-<p align="left"> 
+<p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=Abychandel&label=Profile%20views&color=0e75b6&style=flat" alt="Abychandel" /> 
 </p>
 
-<p align="left"> 
-  <a href="https://github.com/Abychandel/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Abychandel" alt="Abychandel" />
-  </a> 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Abychandel&theme=algolia" alt="Abychandel" />
 </p>
 
 
