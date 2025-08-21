@@ -1,9 +1,16 @@
 <h1 align="center">Hi 👋, I'm Abhaysingh Chandel</h1>
 <h3 align="center">QA Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhay03&label=Profile%20views&color=0e75b6&style=flat" alt="abhay03" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=Abychandel&label=Profile%20views&color=0e75b6&style=flat" alt="Abychandel" /> 
+</p>
 
-<p align="left"> <a href="https://github.com/abhay03/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhay03" alt="abhay03" /></a> </p>
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Abychandel" alt="Abychandel" />
+  </a> 
+</p>
+
 
 - 🔭 I’m currently working on an e-commerce website
 
